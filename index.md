@@ -26,7 +26,7 @@ Casper is a framework for conducting lightweight causality-analysis of LLMs at d
 
 - Neuron Intervention
 
-    ![test3](images\3_casper_layer.gif)
+    ![test3](images\3_casper_neuron.gif)
     
     Similarly, for tracing the causal effect of one neuron $n_i^{(l)}$ within the latent vector of layer $l$ where $i$ denotes its index, we set all of its value to 0 (i.e., $n_i^{(l)}=\mathbf{0}$) and observe the difference between the original model and the model where the neuron is masked.
 
