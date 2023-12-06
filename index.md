@@ -15,13 +15,16 @@ Casper is a framework for conducting lightweight causality-analysis of LLMs at d
     ![test](images\3_casper_normal.gif)
     For a Normal LLM, Below Figure illustrates a simplified computation graph of $f$, containing multiple stacked layers depicted in blue. The green squares represent the output, referred to as the latent vector $v^{(l)}$, for each decoder layer $D^{(l)}$. For clarity, we omit the input embedding layer from the illustration. Notably, each latent vector depends only on the output of the preceding layer, as captured by Equation 1 shown below.
 
+
     $v^{(l)}=D^{(l)}(v^{(l-1)})$ 
+
 
     where the decoder $D^{(l)}$ typically incorporates attention and feed-forward networks to capture both local and global dependencies.
 
 - Layer Intervention
 
     ![test2](images\3_casper_layer.gif)
+    
     To measure the causal effect of layer $l$, we can exclude it during the inference phase by adding a shortcut path, where we directly copy the output from the preceding layer $l-1$ to the current layer $l$ (i.e., $\mathbf{v}^{(l)}=\mathbf{v}^{(l-1)}$). Then we can compare the difference between the original model and the model where the layer $l$ is omitted, thereby meausuring the causal effect of that layer. 
 
 - Neuron Intervention
