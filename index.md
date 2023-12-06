@@ -2,13 +2,9 @@
 layout: page
 ---
 
-# Causality Analysis for Evaluating the Security of Large Language Models
+# Causality Analysis for LLMs
 
 This is the website for the CASPER paper on applying causality analysis to evaluate the security of large language models (LLMs) including basic introduction and detail experiments
-
-## Abstract
-
-Large Language Models (LLMs) such as GPT and Llama2 are increasingly adopted in many safety-critical applications. Their security is thus essential. Even with considerable efforts spent on reinforcement learning from human feedback (RLHF), recent studies have shown that LLMs are still subject to attacks such as adversarial perturbation and Trojan attacks. Further research is thus needed to evaluate their security and/or understand the lack of it. In this work, we propose a framework for conducting light-weight causality-analysis of LLMs at the token, layer, and neuron level. We applied our framework to open-source LLMs such as Llama2 and Vicuna and had multiple interesting discoveries. Based on a layer-level causality analysis, we show that RLHF has the effect of overfitting a model to harmful prompts. It implies that such security can be easily overcome by `unusual' harmful prompts. As evidence, we propose an adversarial perturbation method that achieves 100\% attack success rate on the red-teaming tasks of the Trojan Detection Competition 2023. Furthermore, we show the existence of one mysterious neuron in both Llama2 and Vicuna that has an unreasonably high causal effect on the output. While we are uncertain on why such a neuron exists, we show that it is possible to conduct a ``Trojan'' attack targeting that particular neuron to completely cripple the LLM, i.e., we can generate transferable suffixes to prompts that frequently make the LLM produce meaningless responses.
 
 ## What Is Casper
 Casper is a framework for conducting lightweight causality-analysis of LLMs at different levels, i.e., we approximately measure the causal effect on the model output from each input token, each neuron, and each layer of neurons. 
@@ -16,7 +12,7 @@ Casper is a framework for conducting lightweight causality-analysis of LLMs at d
 ## How Does Casper Work?
 - Normal Computation
 
-    ![test](L:\casperllm.github.io\images\3_casper_normal.gif)
+    ![test](images\3_casper_normal.gif)
     For a Normal LLM, Below Figure illustrates a simplified computation graph of $f$, containing multiple stacked layers depicted in blue. The green squares represent the output, referred to as the latent vector $v^{(l)}$, for each decoder layer $D^{(l)}$. For clarity, we omit the input embedding layer from the illustration. Notably, each latent vector depends only on the output of the preceding layer, as captured by Equation 1 shown below.
 
     $v^{(l)}=D^{(l)}(v^{(l-1)})$ 
@@ -25,12 +21,12 @@ Casper is a framework for conducting lightweight causality-analysis of LLMs at d
 
 - Layer Intervention
 
-    ![test2](L:\casperllm.github.io\images\3_casper_layer.gif)
+    ![test2](images\3_casper_layer.gif)
     To measure the causal effect of layer $l$, we can exclude it during the inference phase by adding a shortcut path, where we directly copy the output from the preceding layer $l-1$ to the current layer $l$ (i.e., $\mathbf{v}^{(l)}=\mathbf{v}^{(l-1)}$). Then we can compare the difference between the original model and the model where the layer $l$ is omitted, thereby meausuring the causal effect of that layer. 
 
 - Neuron Intervention
 
-    ![test3](L:\casperllm.github.io\images\3_casper_layer.gif)
+    ![test3](images\3_casper_layer.gif)
     
     Similarly, for tracing the causal effect of one neuron $n_i^{(l)}$ within the latent vector of layer $l$ where $i$ denotes its index, we set all of its value to 0 (i.e., $n_i^{(l)}=\mathbf{0}$) and observe the difference between the original model and the model where the neuron is masked.
 
