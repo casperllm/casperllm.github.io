@@ -1,7 +1,7 @@
 title: Caper
 
 links:
-  - title: About Me
+  - title: Casper
     url: /
   - title: Layer Results
     url: /layers/
@@ -45,5 +45,3 @@ disqus:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
-
-# Latest update in 2023/11/22 by Hanlin Cai.
