@@ -9,7 +9,9 @@ In this page, we will mainly demonstrate the neuron AIE distribution for differe
 
 ## Neuron AIE distribution for Harmful Prompt
 
-
+| Column 1 | Column 2 |
+| -------- | -------- |
+| Cell 1   | Cell 2   |
 
 <!-- Calendly inline widget begin -->
 <!-- Calendly inline widget end -->
