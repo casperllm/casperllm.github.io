@@ -6,6 +6,28 @@ title: Layers
 
 # Caper Layer Results
 In this page, we will mainly demonstrate the output generation while interventing on different layers for different prompts
+## test4 
+<table>
+    <thead>
+        <tr>
+            <th>Column 1</th>
+            <th>Column 2</th>
+            <th>Column 3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Cell 1</td>
+            <td>Cell 2</td>
+            <td>Cell 3</td>
+        </tr>
+        <tr>
+            <td>Cell 1</td>
+            <td>Cell 2</td>
+            <td>Cell 3</td>
+        </tr>
+    </tbody>
+</table>
 ## test2
 | Column 1 | Column 2 |
 | -------- | -------- |
