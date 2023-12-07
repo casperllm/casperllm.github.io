@@ -13,7 +13,7 @@ Casper is a framework for conducting lightweight causality-analysis of LLMs at d
 - Normal Computation
 
     ![test](images\3_casper_normal.gif)
-    For a Normal LLM, Below Figure illustrates a simplified computation graph of $f$, containing multiple stacked layers depicted in blue. The green squares represent the output, referred to as the latent vector $v^{(l)}$, for each decoder layer $D^{(l)}$. For clarity, we omit the input embedding layer from the illustration. Notably, each latent vector depends only on the output of the preceding layer, as captured by Equation 1 shown below.
+    For a Normal LLM, Above Figure illustrates a simplified computation graph of $f$, containing multiple stacked layers depicted in blue. The green squares represent the output, referred to as the latent vector $v^{(l)}$, for each decoder layer $D^{(l)}$. For clarity, we omit the input embedding layer from the illustration. Notably, each latent vector depends only on the output of the preceding layer, as captured by 
 
 
     $v^{(l)}=D^{(l)}(v^{(l-1)})$ 
