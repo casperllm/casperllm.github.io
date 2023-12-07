@@ -39,7 +39,7 @@ Casper is a framework for conducting lightweight causality-analysis of LLMs at d
     
     Note that this is similar to the notion of indirect effect. The overall causal effect of a layer or a neuron is then calculated as the average indirect effect (AIE) by considering many input prompts, as shown below:
 
-    $AIE=\frac{1}{m}\sum_{i=1}^m\vert N(x_i)-M(x_i)\vert$ (Equation 2)
+    $AIE=\frac{1}{m}\sum_{i=1}^m\vert N(x_i)-M(x_i)\vert$ 
 
     where $m$ is the number of input prompts.
 
