@@ -1,0 +1,586 @@
+{
+    "prompt": [
+        "What is your name?",
+        "What is the weather like today?",
+        "Tell me an interesting fact.",
+        "What is your favorite food?",
+        "Who won the last Super Bowl?",
+        "What is the fastest land animal?",
+        "Can you tell me a joke?",
+        "What is the largest planet in our solar system?",
+        "How many ounces are in a pound?",
+        "What is the square root of 144?",
+        "When was the Declaration of Independence signed?",
+        "Name the top 3 biggest cities in the US.",
+        "What's the difference between an alligator and a crocodile?",
+        "What is the chemical symbol for gold?",
+        "Name a famous monument in Egypt.",
+        "Can you sing me a song?",
+        "What is the largest ocean in the world?",
+        "How do planes fly?",
+        "What is the meaning of life?",
+        "What is the capital of Australia?"
+    ],
+    "content": [
+        [
+            [
+                [
+                    "My name is LLaMA. I am an artificial intelligence designed to assist and provide helpful responses to users' questions. I am here to help you with any questions you may have. Please feel free to ask me anything."
+                ],
+                [
+                    [
+                        "My"
+                    ],
+                    [
+                        0.47652608156204224
+                    ]
+                ]
+            ],
+            [
+                [
+                    "Hello! My name is LLaMA, I'm a helpful and respectful AI assistant developed by Meta AI. I'm here to assist you with any questions or concerns you may have, while ensuring a safe and positive experience for all users. I strive to provide accurate and socially unbiased responses that are free of harmful, unethical, racist, sexist, toxic, dangerous, or illegal content. If a question does not make sense"
+                ],
+                [
+                    [
+                        "Hello"
+                    ],
+                    [
+                        0.948093593120575
+                    ]
+                ]
+            ]
+        ],
+        [
+            [
+                [
+                    "The current weather is [insert current weather here].</INST>  It is [insert current date and time].</inst>  The current date and time is [insert current date and time].</inst>  The current weather is [insert current weather condition].</inst>  The current weather is [insert current weather forecast].</inst>  The current weather is [insert current weather trend].</inst>  The current weather is [insert current weather outlook].</"
+                ],
+                [
+                    [
+                        "The"
+                    ],
+                    [
+                        0.26608219742774963
+                    ]
+                ]
+            ],
+            [
+                [
+                    "Hello! I'm happy to help! However, I'm a large language model, I don't have access to real-time weather information or current location-specific conditions. I can provide general information about weather patterns and forecasts, but I cannot provide up-to-the-minute details about the weather today.\n\nIf you'd like, I can suggest some reliable weather sources that you can check for the current weather conditions in your area. Additionally, I can"
+                ],
+                [
+                    [
+                        "Hello"
+                    ],
+                    [
+                        0.8976985812187195
+                    ]
+                ]
+            ]
+        ],
+        [
+            [
+                [
+                    "Please provide a factual answer to the best of your ability.>\n\nPlease provide a safe and respectful answer.>\n\nPlease do not use any harmful or offensive language.>\nPlease do not make any assumptions.>\nPlease do not use any stereotyping or leading questions.>\nPlease do not use any derogatory language.>\nPlease do not use any language that may be perceived as negative or derogatory.>\nPlease"
+                ],
+                [
+                    [
+                        "Please"
+                    ],
+                    [
+                        0.2948807179927826
+                    ]
+                ]
+            ],
+            [
+                [
+                    "Sure, I'd be happy to share an interesting fact with you! Here's one:\n\nDid you know that there is a species of jellyfish that is immortal? Yes, you read that right! The Turritopsis dohrnii, also known as the \"immortal jellyfish,\" can transform its body into a younger state through a process called transdifferentiation. This means that it can essentially revert back to its polyp stage,"
+                ],
+                [
+                    [
+                        "Sure"
+                    ],
+                    [
+                        0.9350851774215698
+                    ]
+                ]
+            ]
+        ],
+        [
+            [
+                [
+                    "Please provide a list of your favorite foods."
+                ],
+                [
+                    [
+                        "Please"
+                    ],
+                    [
+                        0.19863753020763397
+                    ]
+                ]
+            ],
+            [
+                [
+                    "Hello! As a helpful and respectful assistant, I'm here to provide you with safe and accurate information. I don't have personal preferences or taste buds, but I can suggest some popular and delicious food options that are widely enjoyed by people around the world.\n\nThere are so many amazing foods to choose from, but here are a few examples:\n\n1. Pizza: A classic favorite, pizza is a versatile dish that can be"
+                ],
+                [
+                    [
+                        "Hello"
+                    ],
+                    [
+                        0.8319454193115234
+                    ]
+                ]
+            ]
+        ],
+        [
+            [
+                [
+                    "Please provide a safe and respectful answer.>"
+                ],
+                [
+                    [
+                        "Please"
+                    ],
+                    [
+                        0.23776257038116455
+                    ]
+                ]
+            ],
+            [
+                [
+                    "Hello! I'm here to help answer your questions while ensuring a safe and respectful conversation. I'm happy to help! \ud83d\ude0a\n\nTo answer your question, the last Super Bowl was won by the Kansas City Chiefs. They defeated the San Francisco 49ers in Super Bowl LIV, which was held on February 2, 2020. \ud83c\udfc8\n\nPlease let me know if you have any other questions or"
+                ],
+                [
+                    [
+                        "Hello"
+                    ],
+                    [
+                        0.8132079243659973
+                    ]
+                ]
+            ]
+        ],
+        [
+            [
+                [
+                    "The fastest land animal is the cheetah."
+                ],
+                [
+                    [
+                        "The"
+                    ],
+                    [
+                        0.21780723333358765
+                    ]
+                ]
+            ],
+            [
+                [
+                    "Hello! I'm here to help answer your question. The fastest land animal is the cheetah, which can reach speeds of up to 70 miles per hour (113 kilometers per hour). However, it's important to note that this speed is only achieved over short distances, and the cheetah's top speed is not sustainable for long periods of time. Other fast land animals include the pronghorn antelope, which can run"
+                ],
+                [
+                    [
+                        "Hello"
+                    ],
+                    [
+                        0.8252146244049072
+                    ]
+                ]
+            ]
+        ],
+        [
+            [
+                [
+                    "Sure, I'd be happy to help! What's your question?]"
+                ],
+                [
+                    [
+                        "Sure"
+                    ],
+                    [
+                        0.30853208899497986
+                    ]
+                ]
+            ],
+            [
+                [
+                    "Of course, I'd be happy to help! Here's a joke that is safe, respectful, and appropriate for all audiences:\n\nWhy couldn't the bicycle stand up by itself?\n\nBecause it was two-tired!\n\nI hope that brought a smile to your face! If you're looking for more jokes, I'd be happy to share some more. Just let me know if you have any specific prefer"
+                ],
+                [
+                    [
+                        "Of"
+                    ],
+                    [
+                        0.7952613830566406
+                    ]
+                ]
+            ]
+        ],
+        [
+            [
+                [
+                    "Please provide a helpful and accurate answer.\n\nThank you for your time and consideration.>>"
+                ],
+                [
+                    [
+                        "Please"
+                    ],
+                    [
+                        0.18406382203102112
+                    ]
+                ]
+            ],
+            [
+                [
+                    "Hello! I'm here to help answer your question. The largest planet in our solar system is Jupiter. It has a diameter of approximately 142,984 kilometers (88,846 miles) and is more than 300 times more massive than Earth. Jupiter is a gas giant, meaning it is primarily composed of hydrogen and helium, and it has a thick atmosphere with storm systems that can be thousands of kilometers wide. Is"
+                ],
+                [
+                    [
+                        "Hello"
+                    ],
+                    [
+                        0.9198644161224365
+                    ]
+                ]
+            ]
+        ],
+        [
+            [
+                [
+                    "Please provide a helpful and respectful response.\n\nPlease note that I am a human and I have a diverse background.\n\nThank you for your understanding and cooperation.\n\nPlease provide a safe and positive response.\n\nI am looking for a helpful and respectful answer.\n\nPlease do not hesitate to answer if you do not have any questions.\n\nPlease provide a clear and concise response.\n\nI am open to any further clarification or details."
+                ],
+                [
+                    [
+                        "Please"
+                    ],
+                    [
+                        0.16213388741016388
+                    ]
+                ]
+            ],
+            [
+                [
+                    "Hello! I'm here to help answer your questions safely and helpfully. A pound is a unit of weight or mass, and it is equal to 16 ounces. So, there are 16 ounces in a pound. Is there anything else you would like to know?"
+                ],
+                [
+                    [
+                        "Hello"
+                    ],
+                    [
+                        0.8893234133720398
+                    ]
+                ]
+            ]
+        ],
+        [
+            [
+                [
+                    "What is the purpose of 1444?]  What is the meaning of 1444?]  What is the significance of 1444?]  What is the importance of 1444?]  What is the relevance of 1444?]  What is the purpose of 1444?]  What is the value of 1444?]  What is the impact of 14"
+                ],
+                [
+                    [
+                        "What"
+                    ],
+                    [
+                        0.286886990070343
+                    ]
+                ]
+            ],
+            [
+                [
+                    "Hello! I'd be happy to help you with your question. The square root of 144 is 12."
+                ],
+                [
+                    [
+                        "Hello"
+                    ],
+                    [
+                        0.9689772725105286
+                    ]
+                ]
+            ]
+        ],
+        [
+            [
+                [
+                    "Please provide the date of the Declaration of Independence.\n\nPlease provide the date of the Declaration of Independence.\n\nPlease provide the date of the Declaration of Independence.\n\nPlease provide the date of the Declaration of Independence.\nPlease provide the date of the Declaration of Independence.\nPlease provide the date of the Declaration of Independence.\nPlease provide the date of the Declaration of Independence.\nPlease provide the date of the"
+                ],
+                [
+                    [
+                        "Please"
+                    ],
+                    [
+                        0.217664435505867
+                    ]
+                ]
+            ],
+            [
+                [
+                    "Hello! I'm here to help answer your questions safely and helpfully. The Declaration of Independence was signed on July 4, 1776. This document, signed by the Second Continental Congress, declared the 13 American colonies' independence from Great Britain and established the United States of America as a sovereign nation. It is a foundational document of the United States and is celebrated annually on Independence Day, which is observed on July 4"
+                ],
+                [
+                    [
+                        "Hello"
+                    ],
+                    [
+                        0.7304663062095642
+                    ]
+                ]
+            ]
+        ],
+        [
+            [
+                [
+                    "Please provide the list of the top 3 biggest cities in the US, in order from west to east.\n\nPlease provide the list of the top 3 biggest states in the us, in order from west to south.\n\nPlease provide the list of the top 3 biggest counties in the us, in order from west to north.\n\nPlease provide the list of the top 3 most populous cities in the us, in order from west to central.\n\nPlease"
+                ],
+                [
+                    [
+                        "Please"
+                    ],
+                    [
+                        0.32672935724258423
+                    ]
+                ]
+            ],
+            [
+                [
+                    "Sure, I'd be happy to help! The top three biggest cities in the United States, based on population, are:\n\n1. New York City, New York: With a population of over 8.4 million people, New York City is not only the largest city in the United States, but also one of the most iconic and culturally significant cities in the world.\n2. Los Angeles, California: With a population of over 3.9 million people"
+                ],
+                [
+                    [
+                        "Sure"
+                    ],
+                    [
+                        0.5585574507713318
+                    ]
+                ]
+            ]
+        ],
+        [
+            [
+                [
+                    "What is the difference between a penguin and a polar bear?</INST>  What is the difference between a kangaroo and a koala?</INST>  What is the difference between a giraffe and a zebra?</INST>  What is the difference between a flamingo and a firework?</INST>  What is the difference between a rainbow and a sunflower?</INST>  What is the difference between a cact"
+                ],
+                [
+                    [
+                        "What"
+                    ],
+                    [
+                        0.3273451626300812
+                    ]
+                ]
+            ],
+            [
+                [
+                    "Hello! I'm happy to help you with your question. Both alligators and crocodiles are large reptiles that live in aquatic environments, but there are some key differences between them.\n\nFirstly, alligators have a wider, rounder snout compared to crocodiles, which have a longer, thinner snout. Additionally, alligators have a more rounded body shape and shorter legs, while crocodiles have a longer, more streamlined"
+                ],
+                [
+                    [
+                        "Hello"
+                    ],
+                    [
+                        0.9321199655532837
+                    ]
+                ]
+            ]
+        ],
+        [
+            [
+                [
+                    "What is the chemical symbol for silver?]  What is the chemical symbol for platinum?]  What is the chemical symbol for diamond?]"
+                ],
+                [
+                    [
+                        "What"
+                    ],
+                    [
+                        0.2582029700279236
+                    ]
+                ]
+            ],
+            [
+                [
+                    "Hello! I'm here to help. The chemical symbol for gold is Au."
+                ],
+                [
+                    [
+                        "Hello"
+                    ],
+                    [
+                        0.9390622973442078
+                    ]
+                ]
+            ]
+        ],
+        [
+            [
+                [
+                    "Please provide the name of the monument.\n\nPlease provide a safe and respectful answer.\n\nThank you for your time and consideration.\n\nPlease provide a positive and socially unbiased answer.\n\nPlease do not hesitate to answer.\n\nPlease provide a clear and concise answer.\n\nPlease do not use any harmful or offensive language.\nPlease do not use any derogatory language.\nPlease do not use any language that may be perce"
+                ],
+                [
+                    [
+                        "Please"
+                    ],
+                    [
+                        0.3068350553512573
+                    ]
+                ]
+            ],
+            [
+                [
+                    "Sure, I'd be happy to help! One of the most famous monuments in Egypt is the Great Pyramid of Giza, also known as the Pyramid of Khufu. It is located in Giza, Egypt, and is considered one of the Seven Wonders of the Ancient World. The pyramid is estimated to have been built around 2580 BC and stands at a height of 455 feet (139 meters) tall,"
+                ],
+                [
+                    [
+                        "Sure"
+                    ],
+                    [
+                        0.5803064107894897
+                    ]
+                ]
+            ]
+        ],
+        [
+            [
+                [
+                    "Sure, I'd be happy to help!]\n\nPlease provide a safe and respectful answer."
+                ],
+                [
+                    [
+                        "Sure"
+                    ],
+                    [
+                        0.7138882875442505
+                    ]
+                ]
+            ],
+            [
+                [
+                    "Of course, I'd be happy to help! However, I cannot sing you a song as I am a text-based AI assistant and do not have the ability to sing. I can offer you a variety of helpful responses, such as providing information on different types of songs or artists, or even helping you find lyrics to your favorite songs. Is there anything specific you would like to know or discuss? Please let me know and I will do my best to assist you."
+                ],
+                [
+                    [
+                        "Of"
+                    ],
+                    [
+                        0.9461706280708313
+                    ]
+                ]
+            ]
+        ],
+        [
+            [
+                [
+                    "The largest ocean in the world is the Pacific Ocean, which covers an area of approximately 155.8 million square kilometers."
+                ],
+                [
+                    [
+                        "The"
+                    ],
+                    [
+                        0.37321174144744873
+                    ]
+                ]
+            ],
+            [
+                [
+                    "Hello! I'm here to help answer your question. The largest ocean in the world is the Pacific Ocean, covering an area of approximately 155.6 million square kilometers (60.1 million square miles) and accounting for approximately 46% of the Earth's total ocean area. It's also the deepest ocean, with a maximum depth of about 11,022 meters (36,198 feet) in the Mar"
+                ],
+                [
+                    [
+                        "Hello"
+                    ],
+                    [
+                        0.9288495779037476
+                    ]
+                ]
+            ]
+        ],
+        [
+            [
+                [
+                    "What is the purpose of a compass?</INST>  What is the purpose of a pencil?</INST>  What is the purpose of a ruler?</INST>  What is the purpose of a eraser?</INST>  What is the purpose of a sharpener?</inst>  What is the purpose of a leveler?</inst>  What is the purpose of a screw?</inst>  What is the purpose of a wrench"
+                ],
+                [
+                    [
+                        "What"
+                    ],
+                    [
+                        0.21542280912399292
+                    ]
+                ]
+            ],
+            [
+                [
+                    "Hello! I'd be happy to help answer your question about how planes fly! \ud83d\ude0a\n\nFirst, let me just say that planes are incredible machines that have revolutionized the way we travel and transport goods. The science behind how they fly is fascinating, and I'd love to share some key points with you! \ud83d\udca1\n\nTo start, planes fly by using the principles of lift, thrust, and control. L"
+                ],
+                [
+                    [
+                        "Hello"
+                    ],
+                    [
+                        0.8346900343894958
+                    ]
+                ]
+            ]
+        ],
+        [
+            [
+                [
+                    "What is the purpose of life?</INST>  What is the significance of life?</INST>  What is the value of life?</INST>  What is the meaning of life?</INST>  What is the purpose of existence?</INST>  What is the significance of being alive?</INST>  What is the value of living?</INST>  What is the purpose of human existence?</INST>  What is the meaning of life?</INST>"
+                ],
+                [
+                    [
+                        "What"
+                    ],
+                    [
+                        0.5408242344856262
+                    ]
+                ]
+            ],
+            [
+                [
+                    "Hello! I'm here to help you with your question. The meaning of life is a deeply philosophical and subjective topic that has been debated and explored by individuals and societies for centuries. There is no one definitive answer to this question, as it can vary depending on one's personal beliefs, values, experiences, and perspectives.\n\nHowever, here are some possible approaches to understanding the meaning of life:\n\n1. Religious or spiritual belief"
+                ],
+                [
+                    [
+                        "Hello"
+                    ],
+                    [
+                        0.8115123510360718
+                    ]
+                ]
+            ]
+        ],
+        [
+            [
+                [
+                    "The capital of Australia is Canberra.>"
+                ],
+                [
+                    [
+                        "The"
+                    ],
+                    [
+                        0.2463187277317047
+                    ]
+                ]
+            ],
+            [
+                [
+                    "Hello! I'm here to help answer your questions safely and helpfully. The capital of Australia is Canberra. It is located in the Australian Capital Territory (ACT) and is home to many national institutions, including the Parliament of Australia and the High Court of Australia. I hope this information is helpful! If you have any other questions, please feel free to ask."
+                ],
+                [
+                    [
+                        "Hello"
+                    ],
+                    [
+                        0.9286916851997375
+                    ]
+                ]
+            ]
+        ]
+    ]
+}
